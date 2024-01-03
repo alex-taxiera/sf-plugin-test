@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.21)
 
 # info
 project(
-	Plugin
+	sf-plugin-test
 	VERSION 1.0.0
 	LANGUAGES CXX
 )
